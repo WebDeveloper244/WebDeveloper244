@@ -10,6 +10,45 @@
 
 - ⚡ Fun fact **I think i am funny boy 😉**
 
+<h3>About My Self</h3>
+<p>
+Hi my name is Salman Rasheed and I am a junior mean Stack developer. I have a great experience in technologies Such as Angular, Javascript, Bootstrap and Backend with Node js . I have good knowledge in  Directives, Routing, Lazy Loading, Services and Reactive Forms. Now i am very interested to learn more skills in it. So i want to get internship at least (1 to 2 years) to build a great experience in Mean Stack developing.
+</p>
+
+<h3>I use these skills for Front-End👇</h3>
+
+- **HTML5**
+- **CSS3**
+- **BootStrap**
+- **TypeScript**
+- **Angular**
+
+<h3>I use these skills for Back-End👇</h3>
+
+- **Node.JS**
+- **Express.JS**
+- **MongoDB**
+- **Mongoose**
+- **JWT-Authentication Token**
+- **RESTFUL API**
+
+<h3>Development Tools</h3>
+
+- **UBUNTU-22.0.0 LTS**
+- **MongoCompass**
+- **Angular-Cli**
+- **NPM**
+- **Mongo-Atlas**
+- **PostMan (for testing API)**
+- **Visual-Studio-Code**
+- **Git**
+- **Git-Hub**
+
+<h3>My Other skills👇</h3>
+
+- **Time-Management**
+- **Best Devolping Design Patterns**
+- **Best-Security for Website**
 
 <h2 align="center">| I use these languages and tools for devoloping</h2>
  
