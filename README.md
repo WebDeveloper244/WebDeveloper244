@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think i am funny boy 😉** 
 
-<img align="center" alt="Coding" width="300" fill="none" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif"> </br>
+<img align="right" alt="Coding" width="300" fill="none" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif">
 
 <h3>❤️❤️ About My Self ❤️❤️</h3>
 <p>
