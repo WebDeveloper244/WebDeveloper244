@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I think i am funny boy 😉**
 
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7SvE.gif">
+
 <h3>❤️❤️ About My Self ❤️❤️</h3>
 <p>
 Hi my name is Salman Rasheed and I am a junior mean Stack developer. I have a great experience in technologies Such as Angular, Javascript, Bootstrap and Backend with Node js . I have good knowledge in  Directives, Routing, Lazy Loading, Services and Reactive Forms. Now i am very interested to learn more skills in it. So i want to get internship at least (1 to 2 years) to build a great experience in Mean Stack developing.
