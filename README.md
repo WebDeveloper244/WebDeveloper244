@@ -17,8 +17,7 @@
 
 ![For Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=WebDevolper1122&show_icons=true&theme=radical)
  
-![For Adding Icons to profile:](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff) <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
-
+<img src="https://img.shields.io/badge/-JS-F7DF1E?logo=js&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff"> <img src=""> <img src="">
 
 
 
