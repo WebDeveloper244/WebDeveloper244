@@ -19,8 +19,9 @@
  
 ![For Adding Icons to profile:](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
 
- 
-![For icons:](https://simpleicons.org/)
+<img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
+
+
 
 
 
