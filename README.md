@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/Salman-Baloch" target="blank"><img src="https://img.shields.io/twitter/follow/Salman-Baloch?logo=twitter&style=for-the-badge" alt="salmanbaloch" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SalmanBaloch" target="blank"><img src="https://img.shields.io/twitter/follow/SalmanBaloch?logo=twitter&style=for-the-badge" alt="salmanbaloch" /></a> </p>
 
 - 🌱 I’m currently learning **Angular**
 
