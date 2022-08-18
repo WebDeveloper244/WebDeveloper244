@@ -1,6 +1,5 @@
-<h1 align="center">Hi 🙋, My Name Is Salman Rasheed</h1>
-<h3 align="center">I am a Junior Mean-Stack-Developer</h3>
-
+<h1 align="center">Hi 👋, My Name Is Salman Rasheed</h1>
+<h3 align="center">I am a Junior Mean-Stack-Developer 👨‍💻</h3>
 
 - 🌱 I’m currently learning **Angular**
 
@@ -34,7 +33,7 @@ Hi my name is Salman Rasheed and I am a junior mean Stack developer. I have a gr
 - **JWT-Authentication Token**
 - **Restfull API**
 
-<h3>Development Tools</h3>
+<h3>Development Tools👇</h3>
 
 - **UBUNTU-22.0.0 LTS**
 - **MongoCompass**
