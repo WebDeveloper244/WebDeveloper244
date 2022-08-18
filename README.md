@@ -30,7 +30,7 @@ Hi my name is Salman Rasheed and I am a junior mean Stack developer. I have a gr
 - **MongoDB**
 - **Mongoose**
 - **JWT-Authentication Token**
-- **RESTFUL API**
+- **Restfull API**
 
 <h3>Development Tools</h3>
 
@@ -47,7 +47,7 @@ Hi my name is Salman Rasheed and I am a junior mean Stack developer. I have a gr
 <h3>My Other skills👇</h3>
 
 - **Time-Management**
-- **Best Devolping Design Patterns**
+- **Best Developing Design Patterns**
 - **Best-Security for Website**
 
 <h2 align="center">| I use these languages and tools for devoloping</h2>
