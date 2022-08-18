@@ -16,8 +16,10 @@
  
 
 ![For Top Languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=WebDevolper1122&show_icons=true&theme=radical)
+
+<h3 align="center">I use these languages and tools for devoloping</h3>
  
-<img src="https://img.shields.io/badge/-JS-F7DF1E?logo=js&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff"> <img src=""> <img src="">
+<img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=fff"> <img src="https://img.shields.io/badge/-BootStrap-7952B3?logo=bootstrap&logoColor=fff"> <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff"> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff"> <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff"> <img src="https://img.shields.io/badge/-Express-000000?logo&ExpresslogoColor=fff"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=fff"> <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=Ubuntu&logoColor=fff"> <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=fff"> <img src=""> <img src=""> <img src="">
 
 
 
