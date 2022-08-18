@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think i am funny boy 😉**
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7SvE.gif">
+<img align="right" alt="Coding" width="400" height="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif">
 
 <h3>❤️❤️ About My Self ❤️❤️</h3>
 <p>
