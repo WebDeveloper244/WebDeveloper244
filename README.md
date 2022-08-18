@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sb2137842@gmail.com**
 
-- ⚡ Fun fact *****I think i am funny boy 😉******
+- ⚡ Fun fact **I think i am funny boy 😉**
 
 
 <h2 align="center">| I use these languages and tools for devoloping</h2>
