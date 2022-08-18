@@ -9,7 +9,9 @@
 - 📫 How to reach me **sb2137842@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
-- Fuenc
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebDevolper1122&theme=radical)
 
  
 
