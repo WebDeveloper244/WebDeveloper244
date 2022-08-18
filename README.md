@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salman Rasheed</h1>
+<h1 align="center">Hi 👋, My Name Is Salman Rasheed</h1>
 <h3 align="center">I am a Junior Mean-Stack-Developer</h3>
 
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **sb2137842@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I think i am funny boy 😉**
 
 
 
