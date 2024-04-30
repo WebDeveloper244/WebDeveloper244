@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My Name Is Salman Rasheed</h1>
+<h1 align="center">Hi 👋, My Name Is Baloch</h1>
 <h3 align="center">I am a Junior Mean-Stack-Developer 👨‍💻</h3>
 
 - 🌱 I’m currently learning **Angular**
